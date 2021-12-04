@@ -1,0 +1,31 @@
+
+$body-bg: #0d1117;
+$card-bg: #161b22;
+
+$body-color: #c9d1d9;
+$headings-color: #c9d1d9;
+
+$form-check-input-bg: #010409;
+$form-check-input-border: 1px solid #30363d;
+$form-check-input-checked-color: $body-bg;
+
+$form-file-button-color: $body-bg;
+
+$primary: #58a6ff;
+$secondary: #6e7681;
+$success: #3fb950;
+$info: #58a6ff;
+$warning: #d29922;
+$danger: #f85149;
+$light: #161b22;
+$dark: #c9d1d9;
+
+/*
+* footer
+* checkbox almost invisible
+* Text on file upload button invisible
+* checkmark on checkbox white instead of black
+* alerts very bright
+*/
+
+@import '../node_modules/bootstrap/scss/bootstrap';

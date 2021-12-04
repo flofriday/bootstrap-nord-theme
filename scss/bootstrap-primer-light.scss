@@ -1,0 +1,25 @@
+
+$body-bg: #ffffff;
+$card-bg: #ffffff;
+
+$body-color: #24292f;
+$headings-color: #24292f;
+
+$primary: #0969da;
+$secondary: #6e7781;
+$success: #1a7f37;
+$info: #0969da;
+$warning: #9a6700;
+$danger: #cf222e;
+$light: #eaeef2;
+$dark: #32383f;
+
+/*
+* footer
+* checkbox almost invisible
+* Text on file upload button invisible
+* checkmark on checkbox white instead of black
+* alerts very bright
+*/
+
+@import '../node_modules/bootstrap/scss/bootstrap';
